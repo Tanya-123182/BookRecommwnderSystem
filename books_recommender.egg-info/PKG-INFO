@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: books-recommender
+Version: 0.0.1
+Summary: A small local packages for ML based books recommendations
+Home-page: https://github.com/Tanya-123182/BookRecommwnderSystem
+Author: Tanya Makhija
+Author-email: tanyamakhija46@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# BookRecommwnderSystem
